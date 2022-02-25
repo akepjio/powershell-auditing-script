@@ -39,7 +39,7 @@ cd ./efrei-git/
  
 
 ## Usage
-## An output example
+#### An output example
 ![image](https://user-images.githubusercontent.com/47148699/155713335-cfaebf6a-8037-4891-8978-8d5f3fe161fe.png)
 
 
