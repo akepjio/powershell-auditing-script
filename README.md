@@ -1,4 +1,4 @@
-# Audit Script
+# Auditing Script
 
 This is a simple Windows Auditing Script write in PowerShell That helps you get informations about your Windows Operating system
 
