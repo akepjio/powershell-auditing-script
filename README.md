@@ -25,11 +25,11 @@ Start-Process powershell -Verb runAs
 
 ##### 3 Clone the repository.
 ```
-git clone https://github.com/<your-username>/efrei-git
+git clone https://github.com/<your-username>/powershell-auditing-script
 ```
 ##### 4 cd into cloned directory.
 ```
-cd ./efrei-git/
+cd ./powershell-auditing-script/
 ```
 
 ##### 5 Run the script.
