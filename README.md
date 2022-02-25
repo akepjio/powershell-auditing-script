@@ -42,6 +42,8 @@ cd ./powershell-auditing-script/
 #### An output example
 ![image](https://user-images.githubusercontent.com/47148699/155713335-cfaebf6a-8037-4891-8978-8d5f3fe161fe.png)
 
+## For more informations about PowerShell 
+https://docs.microsoft.com/en-us/powershell/scripting/how-to-use-docs?view=powershell-7.2
 
  
  
